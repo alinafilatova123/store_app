@@ -1,1 +1,2 @@
-# store_app
+## Запустить: 
+`npm run dev`
